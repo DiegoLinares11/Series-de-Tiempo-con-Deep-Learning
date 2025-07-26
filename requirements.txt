@@ -4,3 +4,7 @@ seaborn
 numpy
 statsmodels
 notebook
+openpyxl
+scikit-learn
+keras
+tensorflow
